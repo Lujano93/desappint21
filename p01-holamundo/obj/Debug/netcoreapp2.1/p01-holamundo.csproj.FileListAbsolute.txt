@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\bin\Debug\netcoreapp2.1\p01-holamundo.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\bin\Debug\netcoreapp2.1\p01-holamundo.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\bin\Debug\netcoreapp2.1\p01-holamundo.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\bin\Debug\netcoreapp2.1\p01-holamundo.dll
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\bin\Debug\netcoreapp2.1\p01-holamundo.pdb
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\obj\Debug\netcoreapp2.1\p01-holamundo.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\obj\Debug\netcoreapp2.1\p01-holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\obj\Debug\netcoreapp2.1\p01-holamundo.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\obj\Debug\netcoreapp2.1\p01-holamundo.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\obj\Debug\netcoreapp2.1\p01-holamundo.dll
+C:\Users\Fernando\Documents\ProgramasLF\p01-holamundo\obj\Debug\netcoreapp2.1\p01-holamundo.pdb
