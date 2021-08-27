@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\bin\Debug\netcoreapp2.1\p04-pagatrabajador.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\bin\Debug\netcoreapp2.1\p04-pagatrabajador.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\bin\Debug\netcoreapp2.1\p04-pagatrabajador.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\bin\Debug\netcoreapp2.1\p04-pagatrabajador.dll
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\bin\Debug\netcoreapp2.1\p04-pagatrabajador.pdb
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\obj\Debug\netcoreapp2.1\p04-pagatrabajador.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\obj\Debug\netcoreapp2.1\p04-pagatrabajador.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\obj\Debug\netcoreapp2.1\p04-pagatrabajador.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\obj\Debug\netcoreapp2.1\p04-pagatrabajador.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\obj\Debug\netcoreapp2.1\p04-pagatrabajador.dll
+C:\Users\Fernando\Documents\ProgramasLF\p04-pagatrabajador\obj\Debug\netcoreapp2.1\p04-pagatrabajador.pdb
