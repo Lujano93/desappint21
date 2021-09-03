@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\obj\Debug\netcoreapp2.1\p07-TablaMultiplicar.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\obj\Debug\netcoreapp2.1\p07-TablaMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\obj\Debug\netcoreapp2.1\p07-TablaMultiplicar.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\obj\Debug\netcoreapp2.1\p07-TablaMultiplicar.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\bin\Debug\netcoreapp2.1\p07-TablaMultiplicar.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\bin\Debug\netcoreapp2.1\p07-TablaMultiplicar.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\bin\Debug\netcoreapp2.1\p07-TablaMultiplicar.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\bin\Debug\netcoreapp2.1\p07-TablaMultiplicar.dll
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\bin\Debug\netcoreapp2.1\p07-TablaMultiplicar.pdb
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\obj\Debug\netcoreapp2.1\p07-TablaMultiplicar.dll
+C:\Users\Fernando\Documents\ProgramasLF\p07-TablaMultiplicar\obj\Debug\netcoreapp2.1\p07-TablaMultiplicar.pdb
