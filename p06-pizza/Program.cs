@@ -8,10 +8,10 @@ namespace p06_pizza
     {
         static int Main(string[] args)
         {
-            char tam, cub;
+            char tam, cub, lug;
             string[] ings;
 
-            string tamaño, cubierta;
+            string tamaño, cubierta, lugar;
             string ingredientes="";
 
             if(args.Length<3){
@@ -42,9 +42,17 @@ namespace p06_pizza
                     case 'M' : ingredientes += "Jamon\n"; break;
                 }
             }
+            // Cubierta
+            cub = char.Parse(args[2].ToUpper());
+            if(cub=='D') cubierta = "Delgada"; else cubierta="Gruesa";
+            //Lugar
+            lug = char.Parse(args[3].ToUpper());
+            lugar = (lug=='A' ? "Aqui":"Llevar");
 
-            WriteLine("Tu pizza es de tamaño: {0}", tamaño);
-            WriteLine("Tus Ingredientes:\n{0}", ingredientes);
+            WriteLine("\nTu pizza es de tamaño: \n{0}", tamaño);
+            WriteLine("\nTus Ingredientes:\n{0}", ingredientes);
+            WriteLine("\nCubierta:\n{0}", cubierta);
+            WriteLine("\nPara donde:\n{0}", lugar);
             return 0;
 
         }
@@ -52,7 +60,8 @@ namespace p06_pizza
             Clear();
             WriteLine("Tamaños: (P) - Pequeña \n(M) - Mediana \n(G) - GRande");
             WriteLine("Estos son los Ingredientes:\n(C) - Champiñones \n(E) - Extra queso \n(J) - Jalapeño \n(T) - Tocino \n(M) - Jamon");
-
+            WriteLine("Cubierta: \n(D)-Delgada\n(G)-Gruesa");
+            WriteLine("Para donde: \n(A) - Para Aquí,\n(L) - Para llevar");
         }
     }
 }
