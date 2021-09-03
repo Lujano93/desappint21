@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\obj\Debug\netcoreapp2.1\p05-ciclos.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\obj\Debug\netcoreapp2.1\p05-ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\obj\Debug\netcoreapp2.1\p05-ciclos.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\obj\Debug\netcoreapp2.1\p05-ciclos.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\bin\Debug\netcoreapp2.1\p05-ciclos.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\bin\Debug\netcoreapp2.1\p05-ciclos.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\bin\Debug\netcoreapp2.1\p05-ciclos.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\bin\Debug\netcoreapp2.1\p05-ciclos.dll
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\bin\Debug\netcoreapp2.1\p05-ciclos.pdb
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\obj\Debug\netcoreapp2.1\p05-ciclos.dll
+C:\Users\Fernando\Documents\ProgramasLF\p05-ciclos\obj\Debug\netcoreapp2.1\p05-ciclos.pdb
