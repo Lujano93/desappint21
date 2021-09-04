@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\obj\Debug\netcoreapp2.1\p08-vectorPromedio.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\obj\Debug\netcoreapp2.1\p08-vectorPromedio.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\obj\Debug\netcoreapp2.1\p08-vectorPromedio.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\obj\Debug\netcoreapp2.1\p08-vectorPromedio.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\bin\Debug\netcoreapp2.1\p08-vectorPromedio.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\bin\Debug\netcoreapp2.1\p08-vectorPromedio.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\bin\Debug\netcoreapp2.1\p08-vectorPromedio.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\bin\Debug\netcoreapp2.1\p08-vectorPromedio.dll
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\bin\Debug\netcoreapp2.1\p08-vectorPromedio.pdb
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\obj\Debug\netcoreapp2.1\p08-vectorPromedio.dll
+C:\Users\Fernando\Documents\ProgramasLF\p08-vectorPromedio\obj\Debug\netcoreapp2.1\p08-vectorPromedio.pdb

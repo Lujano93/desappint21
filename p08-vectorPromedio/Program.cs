@@ -1,0 +1,39 @@
+﻿using System;
+
+namespace p08_vectorPromedio
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int [] vector = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100,
+                            10, 20, 30, 40, 50, 60, 70, 80, 90, 100,
+                            10, 20, 30, 40, 50, 60, 70, 80, 90, 100,
+                            10, 20, 30, 40, 50, 60, 70, 80, 90, 100,
+                            10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
+            int suma, nmp;
+            float promedio;
+            suma = 0;
+            nmp = 0;
+            promedio = 0.0f;
+
+            for (int i = 0; i < vector.Length; i++)
+            {
+                Console.Write($"{vector[i]} ");
+                suma += vector[i];
+            }
+            promedio = suma / vector.Length;
+            Console.WriteLine($"\nLa suma es:\n{suma} y el promedio es:\n{promedio}\n\n");
+            for (int i=0; i<vector.Length; i++)
+            {
+                if (vector[i] > promedio)
+                {
+                    Console.Write($"{vector[i]} ");
+                    nmp++;    
+                }
+            }
+            Console.WriteLine($"\nTotal de números mayores que el promedio: {nmp}");
+
+        }
+    }
+}
