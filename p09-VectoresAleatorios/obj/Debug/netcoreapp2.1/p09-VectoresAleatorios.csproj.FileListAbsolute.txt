@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\obj\Debug\netcoreapp2.1\p09-VectoresAleatorios.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\obj\Debug\netcoreapp2.1\p09-VectoresAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\obj\Debug\netcoreapp2.1\p09-VectoresAleatorios.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\obj\Debug\netcoreapp2.1\p09-VectoresAleatorios.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\bin\Debug\netcoreapp2.1\p09-VectoresAleatorios.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\bin\Debug\netcoreapp2.1\p09-VectoresAleatorios.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\bin\Debug\netcoreapp2.1\p09-VectoresAleatorios.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\bin\Debug\netcoreapp2.1\p09-VectoresAleatorios.dll
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\bin\Debug\netcoreapp2.1\p09-VectoresAleatorios.pdb
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\obj\Debug\netcoreapp2.1\p09-VectoresAleatorios.dll
+C:\Users\Fernando\Documents\ProgramasLF\p09-VectoresAleatorios\obj\Debug\netcoreapp2.1\p09-VectoresAleatorios.pdb
