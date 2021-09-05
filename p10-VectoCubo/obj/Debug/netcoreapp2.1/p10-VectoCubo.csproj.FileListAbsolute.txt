@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\bin\Debug\netcoreapp2.1\p10-VectoCubo.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\bin\Debug\netcoreapp2.1\p10-VectoCubo.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\bin\Debug\netcoreapp2.1\p10-VectoCubo.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\bin\Debug\netcoreapp2.1\p10-VectoCubo.dll
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\bin\Debug\netcoreapp2.1\p10-VectoCubo.pdb
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\obj\Debug\netcoreapp2.1\p10-VectoCubo.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\obj\Debug\netcoreapp2.1\p10-VectoCubo.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\obj\Debug\netcoreapp2.1\p10-VectoCubo.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\obj\Debug\netcoreapp2.1\p10-VectoCubo.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\obj\Debug\netcoreapp2.1\p10-VectoCubo.dll
+C:\Users\Fernando\Documents\ProgramasLF\p10-VectoCubo\obj\Debug\netcoreapp2.1\p10-VectoCubo.pdb
