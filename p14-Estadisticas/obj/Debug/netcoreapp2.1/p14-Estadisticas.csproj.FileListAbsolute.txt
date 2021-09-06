@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\obj\Debug\netcoreapp2.1\p14-Estadisticas.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\obj\Debug\netcoreapp2.1\p14-Estadisticas.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\obj\Debug\netcoreapp2.1\p14-Estadisticas.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\obj\Debug\netcoreapp2.1\p14-Estadisticas.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\bin\Debug\netcoreapp2.1\p14-Estadisticas.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\bin\Debug\netcoreapp2.1\p14-Estadisticas.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\bin\Debug\netcoreapp2.1\p14-Estadisticas.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\bin\Debug\netcoreapp2.1\p14-Estadisticas.dll
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\bin\Debug\netcoreapp2.1\p14-Estadisticas.pdb
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\obj\Debug\netcoreapp2.1\p14-Estadisticas.dll
+C:\Users\Fernando\Documents\ProgramasLF\p14-Estadisticas\obj\Debug\netcoreapp2.1\p14-Estadisticas.pdb

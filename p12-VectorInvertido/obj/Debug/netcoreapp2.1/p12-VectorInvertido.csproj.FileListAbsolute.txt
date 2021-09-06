@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\obj\Debug\netcoreapp2.1\p12-VectorInvertido.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\obj\Debug\netcoreapp2.1\p12-VectorInvertido.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\obj\Debug\netcoreapp2.1\p12-VectorInvertido.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\obj\Debug\netcoreapp2.1\p12-VectorInvertido.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\bin\Debug\netcoreapp2.1\p12-VectorInvertido.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\bin\Debug\netcoreapp2.1\p12-VectorInvertido.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\bin\Debug\netcoreapp2.1\p12-VectorInvertido.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\bin\Debug\netcoreapp2.1\p12-VectorInvertido.dll
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\bin\Debug\netcoreapp2.1\p12-VectorInvertido.pdb
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\obj\Debug\netcoreapp2.1\p12-VectorInvertido.dll
+C:\Users\Fernando\Documents\ProgramasLF\p12-VectorInvertido\obj\Debug\netcoreapp2.1\p12-VectorInvertido.pdb
