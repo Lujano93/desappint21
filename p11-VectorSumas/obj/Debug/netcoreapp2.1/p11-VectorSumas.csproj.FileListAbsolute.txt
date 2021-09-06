@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\obj\Debug\netcoreapp2.1\p11-VectorSumas.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\obj\Debug\netcoreapp2.1\p11-VectorSumas.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\obj\Debug\netcoreapp2.1\p11-VectorSumas.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\obj\Debug\netcoreapp2.1\p11-VectorSumas.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\bin\Debug\netcoreapp2.1\p11-VectorSumas.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\bin\Debug\netcoreapp2.1\p11-VectorSumas.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\bin\Debug\netcoreapp2.1\p11-VectorSumas.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\bin\Debug\netcoreapp2.1\p11-VectorSumas.dll
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\bin\Debug\netcoreapp2.1\p11-VectorSumas.pdb
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\obj\Debug\netcoreapp2.1\p11-VectorSumas.dll
+C:\Users\Fernando\Documents\ProgramasLF\p11-VectorSumas\obj\Debug\netcoreapp2.1\p11-VectorSumas.pdb
