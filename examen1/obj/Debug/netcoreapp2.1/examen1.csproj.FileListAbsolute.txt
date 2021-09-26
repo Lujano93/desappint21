@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\ProgramasLF\examen1\obj\Debug\netcoreapp2.1\examen1.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\examen1\obj\Debug\netcoreapp2.1\examen1.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\examen1\obj\Debug\netcoreapp2.1\examen1.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\examen1\obj\Debug\netcoreapp2.1\examen1.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\examen1\bin\Debug\netcoreapp2.1\examen1.deps.json
+C:\Users\Fernando\Documents\ProgramasLF\examen1\bin\Debug\netcoreapp2.1\examen1.runtimeconfig.json
+C:\Users\Fernando\Documents\ProgramasLF\examen1\bin\Debug\netcoreapp2.1\examen1.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\ProgramasLF\examen1\bin\Debug\netcoreapp2.1\examen1.dll
+C:\Users\Fernando\Documents\ProgramasLF\examen1\bin\Debug\netcoreapp2.1\examen1.pdb
+C:\Users\Fernando\Documents\ProgramasLF\examen1\obj\Debug\netcoreapp2.1\examen1.dll
+C:\Users\Fernando\Documents\ProgramasLF\examen1\obj\Debug\netcoreapp2.1\examen1.pdb

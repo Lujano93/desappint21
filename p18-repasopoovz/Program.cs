@@ -6,8 +6,15 @@ namespace p17_repasopoo
     {
         static void Main(string[] args)
         {
+
+
+        }
+
+
+        static void Inicializa()
+        {
             // Inicializar datos
-            Red mired = new Red("Universidad Autonoma de Zacatecas","Ruben Ibarra Reyes","Jardin Juarez 147");
+            Red mired = new Red("Universidad Patito SA de CV ","Ing. Juan Perez","Av. De la Juventud 348");
             mired.AgregarNodo(new Nodo("192.168.0.10","servidor",5,10,"linux"));
             mired.AgregarNodo(new Nodo("192.168.0.12","equipoactivo",2,12,"ios"));
             mired.AgregarNodo(new Nodo("192.168.0.20","computadora",8,5,"windows"));
@@ -25,6 +32,7 @@ namespace p17_repasopoo
             mired.nodos[2].AgregarVulnerabilidad(new Vulnerabilidad("CVE-2017-2996", "adobe",
                 "Adobe Flash Player 24.0.0.194 corrupción de memoria explotable","remota",DateTime.Parse("2/15/2017")));
             
+            static void Reporte(){
             // Reporte 
             Console.WriteLine("\n>> Datos generales del red:");
             Console.WriteLine($"Empresa     : {mired.empresa}");
@@ -41,6 +49,7 @@ namespace p17_repasopoo
             foreach(Nodo n in mired.nodos) {
                 Console.WriteLine($"\n> Ip: {n.ip}, Tipo: {n.tipo}\n");
                 n.vulnerabilidades.ForEach(v=>Console.WriteLine(v.ToString()));
+            }
             }
 
         }
