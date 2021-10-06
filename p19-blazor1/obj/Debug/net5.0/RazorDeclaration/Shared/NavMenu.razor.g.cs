@@ -90,7 +90,7 @@ using p19_blazor1.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\Fernando\Documents\ProgramasLF\p19-blazor1\Shared\NavMenu.razor"
+#line 33 "C:\Users\Fernando\Documents\ProgramasLF\p19-blazor1\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

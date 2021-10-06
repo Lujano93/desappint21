@@ -56,3 +56,6 @@ C:\Users\Fernando\Documents\ProgramasLF\p19-blazor1\obj\Debug\net5.0\ref\p19-bla
 C:\Users\Fernando\Documents\ProgramasLF\p19-blazor1\obj\Debug\net5.0\p19-blazor1.pdb
 C:\Users\Fernando\Documents\ProgramasLF\p19-blazor1\obj\Debug\net5.0\p19-blazor1.genruntimeconfig.cache
 C:\Users\Fernando\Documents\ProgramasLF\p19-blazor1\obj\Debug\net5.0\p19-blazor1.csproj.CopyComplete
+C:\Users\Fernando\Documents\ProgramasLF\p19-blazor1\obj\Debug\net5.0\RazorDeclaration\Pages\Todo.razor.g.cs
+C:\Users\Fernando\Documents\ProgramasLF\p19-blazor1\obj\Debug\net5.0\Razor\Pages\Todo.razor.g.cs
+C:\Users\Fernando\Documents\ProgramasLF\p19-blazor1\obj\Debug\net5.0\RazorDeclaration\Shared\NavLink.razor.g.cs

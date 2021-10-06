@@ -1,5 +1,5 @@
 ﻿using System;
-
+using static System.Console;
 namespace examen1
 {
     class Program
