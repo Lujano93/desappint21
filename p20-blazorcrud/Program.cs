@@ -7,9 +7,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.EntityFtameworkCore;
+using Microsoft.EntityFrameworkCore;
 using p20_blazorcrud.Data;
-
 
 namespace p20_blazorcrud
 {
@@ -18,17 +17,12 @@ namespace p20_blazorcrud
         public static void Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
-            
-            using (var scope=host.Services.CreateScope())
-            {
-                 var services = scope.ServiceProvider;
-                 var context = services.GetRequiredService<AppDBContext>();
-                 DbInitilizer.Inicializar(context);
+            using(var scope=host.Services.CreateScope()) {
+                var services = scope.ServiceProvider;
+                var context = services.GetRequiredService<AppDBContext>();
+                DbInitializer.Inicializar(context);
             }
-            
             host.Run();
-
-
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

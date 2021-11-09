@@ -9,6 +9,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using p20_blazorcrud.Data;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace p20_blazorcrud
 {

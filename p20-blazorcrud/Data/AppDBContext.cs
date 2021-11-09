@@ -1,16 +1,11 @@
 using System;
-Using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
-namespace p20_blazorcrud.Data
-{
-    public class AppDBContext : DBContext {
-        public AppDBContext(DBContextOptions<AppDBContext> options) : base(options){
-            public Dbset<Employee> Employees {get; set;}
-            
+namespace p20_blazorcrud.Data { 
+    public class AppDBContext : DbContext  {
+        public AppDBContext(DbContextOptions<AppDBContext> options) : base(options) {
+
         }
+        public DbSet<Employee> Employees {get; set;}
     }
-
-
-
-
 }
