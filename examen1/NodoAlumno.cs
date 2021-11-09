@@ -1,40 +1,29 @@
 using System;
+using System.Collections.Generic;
+
 namespace examen1
 {
-  public class Alumno
-  {
-      public Nodo (string aNombre,int aEdad,DateTime aFechaIng,string aBecado,int aCalifs) =>
-            (Nombre,FechaIng,Grupo,Materia,Salario,Alumnos) = (pNombre,pFechaIng,pGrupo,pMateria,pSalario,pAlumnos);
+  public class Alumno{
 
-        public string aNombre {get; private set;}
-        public int aEdad {get; private set;}
-        public  DateTime aFechaIng {get; private set;}
-        public string aBecado {get; private set;}
-        public string aBecado {get; private set;}
-        public int aCalifs {get; private set;}
-        public int Antiguedad {
-          get{
-             return DateTime.Now.Year - FechaIng.Year;
-          }
-           
-        }
-        public int promedio{
+public Alumno(string pnombre, int pedad, DateTime pfechaing, bool pbecado,List<float> pcalifs) => 
+(nombre, edad, fechaing, becado, califs) (pnombre, pedad, pfechaing,pbecado,pcalifs);
+public string nombre {get; set;} 
+public int edad {get; set;} 
+public DateTime fechaing {get; set;} 
+public bool becado {get; set;} 
+public List<float> califs {get; set;}
 
-        }
+public float prom {
+  get {
+    float s=0;
+    foreach(var c in califs) S+=c; 
+    return s/califs.Count;
+  }
+}
 
-        public string Mensaje{
-            get{
-             if(prom>=7)
-              string m= Aprobaste;
-              else
-               m= Reprobaste;
-
-                return m;
-            } 
-           
-        }
-        
-        public override string ToString() => 
-        $"Nombre: {aNombre,-15} Edad: {aEdad,-7} FechaIng: {FechaIng.ToString("dd/mm/yy"),-10} Becado: {aBecado,-4} Califs: {aCalifs,-8} Antiguedad: {Antiguedad.ToString(),-2} Promedio: {aPromedio, -11} Mensaje: {aMensaje,-10}";
+  public override string ToString() =>
+  $"Nombre: {nombre,-12} Edad:6 {edad} FechaIng: {fechaing. ToString("dd/MM/yyy")}" + 
+  $"Becado: {(becado?"S1":"No")} Calificaciones: {string. Join (",",califs)}" + 
+  $"Prom: {prom} Mensaje: {(promo>=7?"Aprobado":"Reprobado") }";
   }
 }
