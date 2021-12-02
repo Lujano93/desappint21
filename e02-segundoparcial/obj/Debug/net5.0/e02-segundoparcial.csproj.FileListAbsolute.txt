@@ -1,0 +1,16 @@
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\e02-segundoparcial.csproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\e02-segundoparcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\e02-segundoparcial.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\e02-segundoparcial.AssemblyInfo.cs
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\e02-segundoparcial.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\e02-segundoparcial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\e02-segundoparcial.RazorComponent.input.cache
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Fernando\Documents\ProgramasLF\e02-segundoparcial\obj\Debug\net5.0\e02-segundoparcial.RazorComponent.output.cache
