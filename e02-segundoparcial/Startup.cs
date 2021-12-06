@@ -31,7 +31,7 @@ namespace e02_segundoparcial
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
 
-            services.AddDbContext<DvdContexto>{ opciones =>
+            services.AddDbContext<DvdContexto>{} opciones =>
             opciones.UseSqlLite(Configuration.GetConnectionString("ConexionBD")}
             );
         }
